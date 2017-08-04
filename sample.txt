@@ -1,3 +1,4 @@
 連猴子都懂的Git命令
 add 修改加入書籤   add second git
-add 修改加入書籤   add 3rd git
+pull 取得遠端數據庫的內容  3rd git
+add 修改加入書籤   add 4 git
